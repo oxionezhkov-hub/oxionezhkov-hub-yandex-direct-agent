@@ -1,5 +1,6 @@
 {
   "name": "yandex-direct-agent",
+  "description": "Скилл «Директ-агент» для Claude Code и Codex: ведение Яндекс.Директа с ИИ",
   "owner": {
     "name": "oxionezhkov-hub"
   },
