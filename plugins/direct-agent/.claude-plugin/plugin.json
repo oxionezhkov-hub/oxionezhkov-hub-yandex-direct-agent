@@ -1,0 +1,10 @@
+{
+  "name": "direct-agent",
+  "description": "ИИ-агент для Яндекс.Директа: бриф, проверка целей, запуск кампаний, ежедневная оптимизация и автопилот",
+  "version": "1.0.0",
+  "author": {
+    "name": "oxionezhkov-hub"
+  },
+  "license": "MIT",
+  "keywords": ["yandex-direct", "яндекс-директ", "ppc", "marketing", "ads"]
+}

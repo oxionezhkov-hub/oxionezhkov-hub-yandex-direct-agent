@@ -1,0 +1,13 @@
+{
+  "name": "yandex-direct-agent",
+  "owner": {
+    "name": "oxionezhkov-hub"
+  },
+  "plugins": [
+    {
+      "name": "direct-agent",
+      "source": "./plugins/direct-agent",
+      "description": "ИИ-агент для Яндекс.Директа: бриф, проверка целей, запуск кампаний, ежедневная оптимизация и автопилот"
+    }
+  ]
+}
